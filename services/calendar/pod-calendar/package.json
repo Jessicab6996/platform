@@ -65,7 +65,7 @@
     "@hcengineering/text": "^0.6.5",
     "@hcengineering/server-client": "^0.6.0",
     "@hcengineering/server-token": "^0.6.11",
-    "dotenv": "~16.0.0",
+    "dotenv": "~16.4.5",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "fast-equals": "^5.0.1",
